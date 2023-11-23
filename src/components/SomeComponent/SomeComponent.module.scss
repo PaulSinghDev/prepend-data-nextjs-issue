@@ -1,0 +1,5 @@
+@use "./some-partial";
+
+.some-class {
+  background-color: $some-color;
+}
